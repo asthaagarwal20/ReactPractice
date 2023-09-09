@@ -1,0 +1,2 @@
+key is a special attribute you need to include when creating a list of elements
+keys help react to identify which items have changed ,added, or are removed

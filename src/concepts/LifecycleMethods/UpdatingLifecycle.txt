@@ -1,0 +1,6 @@
+ React has five built-in methods that gets called, in this order, when a component is updated:
+getDerivedStateFromProps()
+shouldComponentUpdate()
+render()
+getSnapshotBeforeUpdate()
+componentDidUpdate()

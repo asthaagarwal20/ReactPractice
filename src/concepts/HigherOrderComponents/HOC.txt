@@ -1,0 +1,2 @@
+It is used to share common functionality between components.
+Hoc is a pattern where a func takes a component as a argument and returns a new component

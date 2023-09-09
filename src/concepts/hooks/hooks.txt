@@ -1,0 +1,3 @@
+hooks are used for func comp and cannot be used inside classes
+it is used to organize codes
+lets you split into smaller components

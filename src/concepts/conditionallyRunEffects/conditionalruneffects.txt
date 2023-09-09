@@ -1,0 +1,2 @@
+in second parameter of useeffect which is a array we pass parameter that when should the value get updated and not
+after each render

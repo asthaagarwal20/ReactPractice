@@ -1,0 +1,3 @@
+Binding Event handler is the way this keyword works in js
+on click of button we change the message displayed
+bind is used or arrow function can be used

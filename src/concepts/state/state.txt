@@ -1,0 +1,3 @@
+it gives the current state of component
+can be used with class component only.
+for functional it uses hooks and usestate function

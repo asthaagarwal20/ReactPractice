@@ -1,0 +1,6 @@
+It is same as Conditional operators in js
+these are of 4 types
+if-else
+element variables
+ternary conditional operators
+short circuit operators

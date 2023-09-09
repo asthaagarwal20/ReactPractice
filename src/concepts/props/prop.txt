@@ -1,0 +1,3 @@
+for communicating between two components we use props
+it acts as a input while calling the functions
+in class component it is used with constructor

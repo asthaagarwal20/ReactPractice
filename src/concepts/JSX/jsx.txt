@@ -1,0 +1,5 @@
+jsx is extension to js syntax
+write xml like code for components
+it makes react code simpler and elegant
+it ultimates transpile to pure js which is understood by the browsers
+react.createElement can be used either

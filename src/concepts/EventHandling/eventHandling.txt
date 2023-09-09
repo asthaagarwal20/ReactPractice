@@ -1,0 +1,2 @@
+on click we pass the function as event handler
+Event handler is a function and not a function call (no {})

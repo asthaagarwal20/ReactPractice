@@ -1,0 +1,3 @@
+It is used to give side effects eg updating dom,timer in functional component
+In class component we have componentDidMount,componentDidUpdate,componentWillUnmount
+It runs after every render 

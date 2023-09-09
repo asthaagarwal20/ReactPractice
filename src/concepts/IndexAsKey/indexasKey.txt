@@ -1,0 +1,4 @@
+when to use index as key?
+the items in the list do not have unique elements
+the list is static and will not change
+the list will never be reordered
